@@ -1,5 +1,6 @@
 Version 2.1.1
 * Migrated mod to GitHub
+* Added feedback to bash scripts
 
 Version 2.1.0
 * Update to game version 2.8.0
