@@ -1,3 +1,6 @@
+Version 2.2.0
+* Update to game version 3.0.2
+
 Version 2.1.1
 * Migrated mod to GitHub
 * Added feedback to bash scripts
