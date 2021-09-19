@@ -1,3 +1,9 @@
+Version 2.3.2
+* Fixed missing thumbnail update (for real)
+
+Version 2.3.1
+* Fixed missing thumbnail update
+
 Version 2.3.0
 * Update to game version 3.1.*
 
