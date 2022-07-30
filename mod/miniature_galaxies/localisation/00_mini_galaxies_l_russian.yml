@@ -1,8 +1,8 @@
 ﻿l_russian:
-    
- diminutive:0 "Diminutive"
- miniature:0 "Miniature"
- minuscule:0 "Minuscule"
- microscopic:0 "Microscopic"
- nanoscopic:0 "Nanoscopic"
- infinitesimal:0 "Infinitesimal"
+
+ diminutive:0 "Уменьшенная"
+ miniature:0 "Миниатюрная"
+ minuscule:0 "Крошечная"
+ microscopic:0 "Микро"
+ nanoscopic:0 "Нано"
+ infinitesimal:0 "Пико"

@@ -1,3 +1,6 @@
+Version 2.6.1
+* Added Russian translation by [url=https://github.com/YanatoCherizhosa]YanatoCherizhosa[/url]
+
 Version 2.6.0
 * Update to game version 3.4.*
 
