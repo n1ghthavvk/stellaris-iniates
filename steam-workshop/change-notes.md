@@ -1,3 +1,7 @@
+Version 2.8.0
+* Update to game version 3.6.*
+* Added support for all new map generators to all map sizes
+
 Version 2.7.0
 * Update to game version 3.5.*
 

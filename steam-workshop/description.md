@@ -15,6 +15,7 @@ This mod adds six additional options for the amount of stars that will generate 
 [/list]
 Check the screenshots to see how a smaller galaxy looks like in game.
 Starting a new game is quick and easy, try experimenting yourself to see how many different shapes are possible! Especially smaller sizes differ significantly from game to game.
+On the smallest sizes (and especially if you use the more exotic galaxy generators), you may get stars fully disconnected from the hyperlane network. They will be available only through Jump Drives and the Sentry Array, or a Quantum Catapult.
 
 Looking to generate bigger galaxies?
 Check out this awesome mod by [i]Ariphaos[/i] (100% compatible):
