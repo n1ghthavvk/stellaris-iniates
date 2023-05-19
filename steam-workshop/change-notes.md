@@ -1,3 +1,6 @@
+Version 2.10.0
+* Update to game version 3.8.*
+
 Version 2.9.0
 * Update to game version 3.7.*
 
