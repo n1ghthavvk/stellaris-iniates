@@ -39,5 +39,3 @@ Looking for my other creations?
 Thanks for reading the description, downloading & playing with my mods!
 
 [strike][i]Don't forget to leave a comment, smash that like button, subscribe and hit the bell icon!!![/i][/strike]
-
-[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
